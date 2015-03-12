@@ -1,0 +1,6 @@
+E:\camp\progchall\game\game\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+E:\camp\progchall\game\game\game\game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\camp\progchall\game\game\game\game\bin\x86\Debug\game.exe
+E:\camp\progchall\game\game\game\game\bin\x86\Debug\game.pdb
+E:\camp\progchall\game\game\game\game\obj\x86\Debug\game.exe
+E:\camp\progchall\game\game\game\game\obj\x86\Debug\game.pdb
